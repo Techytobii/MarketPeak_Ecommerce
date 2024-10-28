@@ -4,7 +4,7 @@ The following is implemented in this project
 
 ## 1.1 INITIALIZE GIT REPOSITORY
 
-this is done using the following commands; mkdir MarketPeak_Ecommerce
+this is done using the following commands  mkdir MarketPeak_Ecommerce
 cd MaeketPeak_Ecommerce
 git init
 And it is visually represented below
